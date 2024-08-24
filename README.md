@@ -6,7 +6,7 @@ with Visual Studio Code running on a Windows host.
 
 This setup was tested for:
 
-- docker container (Docker Deskstop, Windows host, WSL2)
+- docker container (Docker Desktop, Windows host, WSL2)
 - project files located in WSL2 directory
 - Visual Studio Code running in Windows host
 
