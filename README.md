@@ -46,3 +46,8 @@ code .
 
 3. Open page http://localhost in browser
 
+## Useful links
+
+https://matthewsetter.com/setup-step-debugging-php-xdebug3-docker/
+
+
